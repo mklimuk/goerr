@@ -11,6 +11,7 @@ const (
 	BadRequest
 	Unrecognized
 	CacheMiss
+	Unauthorized
 )
 
 //Error is a generic error
